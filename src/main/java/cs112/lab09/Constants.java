@@ -27,15 +27,15 @@ public class Constants {
                     "The following 'history' was told for many years: a minor riot between Black and White soldiers occred in the Presidio in San Francisco",
                     "05-15-1919",
                     "By correcting history, not just rewriting it, we are revising it to-embark on the process of righting a wrong. Here is the revised history: a minor riot between Black and White soliders occured in the Presidio in San Francisco after a dispute about a Thai soldier who was moved from the 'colored quarters' to the white military housing. Despite defending our country, housing for Black soliders was not only segregated but often inferior. Black soldiers also faced increased attacks and other forms of discrimination upon returning home",
-                    "TODO: San Francisco Citation Hyperlink"
+                    "https://visualizingtheredsummer.com/wp-content/uploads/2015/11/051519SFCallTusk10-0028-514x1024.jpg"
             },
             {
                     "file:./src/main/resources/images/bisbee.png",
                     "Bisbee, AZ",
-                    "The following 'history' was told for many years: Local police in Bisbee, Arizona attacked the 10th U.S. Cavalrty, an African-American unitn known as the 'Buffalo Soliders,' formed in 1866",
+                    "The following 'history' was told for many years: Local police in Bisbee, Arizona attacked the 10th U.S. Cavalry, an African-American unit known as the 'Buffalo Soliders,' formed in 1866",
                     "07-13-1919",
                     "By correcting history, not just rewriting it, we are revising it to-embark on the process of righting a wrong. Here is the revised history: Although sources are limited, the attack occurred on the even of celebrations mean to honor returning soldiers (like in Norfolk Virginia).",
-                    "TODO: Bisbee Citation Hyperlink"
+                    "https://visualizingtheredsummer.com/wp-content/uploads/2016/08/img-11.jpeg"
             }
     };
 }
